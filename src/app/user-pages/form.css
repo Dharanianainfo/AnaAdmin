@@ -1,0 +1,16 @@
+.errorMsg {
+    color: #cc0000;
+    margin-top: 8px;
+    font-size: 12px;
+    line-height: 15px;
+  }
+  
+  .sucessMsg {
+    color: #6B8E23;
+    margin-bottom: 10px;
+  }
+
+  .para{
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+  }

@@ -1,0 +1,101 @@
+.errorMsg {
+    color: #cc0000;
+    margin-top: 8px;
+    font-size: 12px;
+    line-height: 15px;
+  }
+  
+  .sucessMsg {
+    color: #6B8E23;
+    margin-bottom: 10px;
+  }
+
+  .card .card-description {
+    margin-bottom: 1.5rem;
+    color: #343a40;
+}
+/* .card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 20%;
+  text-align: center;
+  font-family: arial;
+  margin-top: 30px;
+  align-items: stretch !important;
+  padding: 0px;
+  background-color: white;
+  border: 1px solid #5E5E5E;
+  float: left;
+  margin: 23px;
+  cursor: pointer;
+  padding-bottom: 5px;
+} */
+
+#flag{
+  color: red !important;
+
+  font-size: 20px !important;
+  
+}
+#unflag{
+color: green !important;
+font-size: 20px !important;
+
+}
+.card .card-body {
+    padding: 2rem 2rem !important; 
+}
+
+
+td{
+  text-transform: capitalize;
+}
+
+.profile-image:hover{
+    
+  background-color:#212529
+}
+.profile-image img{
+ 
+  max-width: max-content;
+  background-color: gray;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+ 
+  cursor: pointer;
+}
+
+
+.profile-image input[type="file" i]{
+  background-color: gray !important;
+  position: relative;
+  cursor: pointer;
+  border-radius: 50px;
+  bottom: 30px;
+  right: -50px;
+  height: 25px;
+  width: 25px;
+  
+}
+.profile-image input[type="file" i]::-webkit-file-upload-button {
+  
+  /* background-image: url("../assets/images/editpen.png"); */
+  background-repeat: no-repeat;
+  background-size: 15px;
+background-position-x: 8px;
+background-position-y:7px;
+   border: #111 !important;
+   background-color: transparent !important;
+  color: transparent;
+  padding: 1em;
+  cursor: pointer;
+}
+.profile-image {
+text-align: center;
+  background-color: gray;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+margin-left: 30%;
+  cursor: pointer;
+}

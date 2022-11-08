@@ -1,0 +1,36 @@
+.errorMsg {
+    color: #cc0000;
+    margin-top: 8px;
+    font-size: 12px;
+    line-height: 15px;
+  }
+  
+  .sucessMsg {
+    color: #6B8E23;
+    margin-bottom: 10px;
+  }
+
+  .card .card-description {
+    margin-bottom: 1.5rem;
+    color: #343a40;
+}
+#flag{
+  color: red !important;
+
+  font-size: 20px !important;
+  
+}
+#unflag{
+color: green !important;
+font-size: 20px !important;
+
+}
+th{
+ 
+  text-align: center !important;
+}
+td{
+ 
+  text-align: center !important;
+}
+

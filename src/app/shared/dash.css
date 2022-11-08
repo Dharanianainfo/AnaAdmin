@@ -1,0 +1,8 @@
+.navbar .navbar-menu-wrapper .navbar-nav .nav-item .dropdown .dropdown-menu.navbar-dropdown .dropdown-item {
+    border-bottom: 2px solid black;
+    background-color: white;
+}
+
+ .dropdown-menu{
+    padding:0px;
+}
